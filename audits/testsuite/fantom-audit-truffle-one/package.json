@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "bignumber.js": "5.0.0",
-    "solc": "^0.4.24",
-    "solc-js": "^0.4.20-browser.1",
-    "truffle-artifactor": "^3.0.4"
+    "solc": "^0.8.29",
+    "solc-js": "^1.0.1",
+    "truffle-artifactor": "^4.0.30"
   },
   "devDependencies": {},
   "scripts": {
